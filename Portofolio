@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Zuliyan — Desain • Pengajaran • Video • Hukum</title>
+  <meta name="description" content="Zuliyan — Desainer, Video Editor & Pengajar Photoshop. Jasa desain, workshop, marketing & konsultasi Hukum Keluarga.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#">Zuliyan<span class="dot">.</span></a>
+      <nav class="nav" id="nav">
+        <a href="#home">Beranda</a>
+        <a href="#about">Tentang</a>
+        <a href="#services">Layanan</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Kontak</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Buka menu">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section id="home" class="hero">
+      <div class="container hero-inner">
+        <div class="hero-text">
+          <h1>Desain. Pengajaran. Video Editing. &amp; Solusi Hukum.</h1>
+          <p>Saya Zuliyan — desainer & pengajar Photoshop, video editor, pemasar digital, dan mahasiswa S2 Hukum Keluarga. Saya menggabungkan kreativitas & keilmuan untuk solusi praktis.</p>
+          <div class="hero-ctas">
+            <a class="btn primary" href="#services">Lihat Layanan</a>
+            <a class="btn ghost" href="#portfolio">Portfolio</a>
+          </div>
+        </div>
+        <div class="hero-media">
+          <img src="assets/hero-placeholder.jpg" alt="Visual hero — desain & pengajaran">
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="section about">
+      <div class="container">
+        <h2>Tentang Saya</h2>
+        <p>Saya Zuliyan — mahasiswa S2 Hukum Keluarga di UIN Suska Riau, sekaligus desainer & video editor yang sering menjadi guru tamu untuk workshop Photoshop di SMK. Saya bekerja juga sebagai marketing dan mengelola konten media sosial. Saya mengambil pendekatan praktis: solusi yang estetis sekaligus sesuai konteks hukum & etika.</p>
+        <div class="about-grid">
+          <div class="about-card">
+            <h3>Desain & Branding</h3>
+            <p>Logo, poster, baliho, desain cetak untuk kampanye, usaha, dan materi akademik.</p>
+          </div>
+          <div class="about-card">
+            <h3>Workshop & Pengajaran</h3>
+            <p>Materi Photoshop, digital imaging, dan pelatihan praktis untuk pelajar & guru.</p>
+          </div>
+          <div class="about-card">
+            <h3>Video & Konten Marketing</h3>
+            <p>Video promosi, editing konten Instagram & TikTok untuk jualan atau kampus.</p>
+          </div>
+          <div class="about-card">
+            <h3>Kajian Hukum & Konsultasi Akademik</h3>
+            <p>Penyusunan makalah, analisis tafsir ayat-ahkam, dan pendampingan skripsi.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SERVICES -->
+    <section id="services" class="section services">
+      <div class="container">
+        <h2>Layanan & Passion</h2>
+        <div class="services-grid">
+          <div class="service">
+            <h4>Desain Grafis</h4>
+            <p>Poster, cover, notebook design untuk cetak & digital.</p>
+          </div>
+          <div class="service">
+            <h4>Workshop Photoshop</h4>
+            <p>Kurikulum praktis; sesi teori + praktek (SMK, komunitas).</p>
+          </div>
+          <div class="service">
+            <h4>Video Editing & Social Media</h4>
+            <p>Editing, motion graphics, optimasi konten social media.</p>
+          </div>
+          <div class="service">
+            <h4>Konsultasi Hukum Islam</h4>
+            <p>Pendampingan makalah & kajian tafsir untuk mata kuliah.</p>
+          </div>
+          <div class="service">
+            <h4>Marketing Bengkel & Otomotif</h4>
+            <p>Branding & konten untuk bengkel (DNF Autotech) dan jualan sparepart.</p>
+          </div>
+          <div class="service">
+            <h4>Rancangan Aplikasi & Skripsi</h4>
+            <p>Desain prototype aplikasi, dokumentasi, dan struktur skripsi.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PORTFOLIO -->
+    <section id="portfolio" class="section portfolio">
+      <div class="container">
+        <h2>Portfolio</h2>
+        <div class="portfolio-grid">
+          <!-- contoh item -->
+          <article class="portfolio-item">
+            <img src="assets/portfolio-1.jpg" alt="Poster kampus">
+            <div class="portfolio-body">
+              <h5>Poster Seminar Hukum</h5>
+              <p>Kajian asbabun nuzul — desain A4 untuk cetak & digital.</p>
+            </div>
+          </article>
+          <article class="portfolio-item">
+            <img src="assets/portfolio-2.jpg" alt="Video editing">
+            <div class="portfolio-body">
+              <h5>Video Promo Bengkel</h5>
+              <p>Editing & motion graphics untuk promosi layanan auto repair.</p>
+            </div>
+          </article>
+          <article class="portfolio-item">
+            <img src="assets/portfolio-3.jpg" alt="Workshop Photoshop">
+            <div class="portfolio-body">
+              <h5>Workshop Photoshop SMK</h5>
+              <p>Materi, slides, dan panduan praktek siswa.</p>
+            </div>
+          </article>
+          <!-- tambahkan sesuai kebutuhan -->
+        </div>
+      </div>
+    </section>
+
+    <!-- BLOG -->
+    <section id="blog" class="section blog">
+      <div class="container">
+        <h2>Artikel & Kajian</h2>
+        <div class="blog-grid">
+          <article class="post">
+            <h4>Ringkasan Makalah: Perlindungan Hak Anak</h4>
+            <p>Ringkasan singkat dan rekomendasi lembaga internasional. (Contoh konten untuk dipajang)</p>
+            <a href="#" class="read-more">Baca lengkap →</a>
+          </article>
+          <article class="post">
+            <h4>Langkah Menulis Makalah Tafsir Ayat-Ayat Ahkam</h4>
+            <p>Panduan referensi dan struktur penulisan makalah.</p>
+            <a href="#" class="read-more">Baca lengkap →</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section contact">
+      <div class="container">
+        <h2>Kontak & Booking</h2>
+        <div class="contact-grid">
+          <form id="contactForm" class="contact-form">
+            <label>Nama <input type="text" name="name" required></label>
+            <label>Email <input type="email" name="email" required></label>
+            <label>Pesan <textarea name="message" rows="5" required></textarea></label>
+            <label>Layanan yang diinginkan
+              <select name="service">
+                <option>Desain</option>
+                <option>Workshop</option>
+                <option>Video Editing</option>
+                <option>Konsultasi Hukum</option>
+                <option>Marketing Bengkel</option>
+              </select>
+            </label>
+            <button type="submit" class="btn primary">Kirim Pesan</button>
+          </form>
+          <div class="contact-info">
+            <h3>Hubungi Saya</h3>
+            <p>WhatsApp: <a href="https://wa.me/6281xxxxxxxx">+62 81xxxxxxx</a></p>
+            <p>Email: <a href="mailto:zuliyan@example.com">zuliyan@example.com</a></p>
+            <p>Lokasi: Bengkalis, Riau</p>
+            <div class="socials">
+              <a href="#" aria-label="Instagram">Instagram</a>
+              <a href="#" aria-label="YouTube">YouTube</a>
+              <a href="#" aria-label="LinkedIn">LinkedIn</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> Zuliyan. Semua hak cipta.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
